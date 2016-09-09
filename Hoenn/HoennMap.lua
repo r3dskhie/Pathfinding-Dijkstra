@@ -5,7 +5,7 @@ hoenn["Oldale Town"] = {"Route 102=1", "Route 103=1","Mart Oldale Town=1","Pokec
 hoenn["Pokecenter Oldale Town"] = {"Oldale Town=1"}
 hoenn["Mart Oldale Town"] = {"Oldale Town"}
 hoenn["Route 102"] = {"Petalburg City=1","Oldale Town=1"}
-hoenn["Route 103"] = {"Oldale Town=1", "Route 110=1""}
+hoenn["Route 103"] = {"Oldale Town=1", "Route 110=1"}
 hoenn["Petalburg City"] = {"Route 102=1","Route 104=1","Pokecenter Petalburg City=1","Mart Petalburg City=1"}
 hoenn["Pokecenter Petalburg City"] = {"Petalburg City=1"}
 hoenn["Mart Petalburg City"] = {"Petalburg City=1"}
@@ -16,7 +16,7 @@ hoenn["Pokecenter Rustboro City"] = {"Rustboro City=1"}
 hoenn["Mart Rustboro City"] = {"Rustboro City=1"}
 hoenn["Route 116"] = {"Rustboro City=1","Rusturf Tunnel=1"}
 hoenn["Rusturf Tunnel"] = {"Route 116=1","Verdanturf Town=1"}
-hoenn["Verdanturf Town"] = {"Rusturf Tunnel=1","Pokecenter Verdanturf=1","Verdaturf Mart=1","Route 117=1"]
+hoenn["Verdanturf Town"] = {"Rusturf Tunnel=1","Pokecenter Verdanturf=1","Verdaturf Mart=1","Route 117=1"}
 hoenn["Pokecenter Verdanturf"] = {"Verdanturf Town=1"}
 hoenn["Verdaturf Mart"] = {"Verdanturf Town=1"}
 hoenn["Route 117"] = {"Verdanturf Town=1","Mauville City Stop House 2=1"}
@@ -40,7 +40,6 @@ hoenn["Cable Car Station 2"] = {"Cable Car Station 1=1","Mt. Chimney=1"}
 hoenn["Mt. Chimney"] = {"Cable Car Station 2=1","Jagged Pass=1"}
 hoenn["Jagged Pass"] = {"Mt. Chimney=1","Route 112=1"}
 hoenn["Lavaridge Town"] = {"Pokecenter Lavaridge Town=1","Route 112=1","Lavaridge Mart=1","Valley of Steel Entrance=1"}
-hoenn["Valley of Steel Entrance"] = {"Lavaridge Town=1","}
 hoenn["Lavaridge Mart"] = {"Lavaridge Town=1"}
 hoenn["Valley of Steel Entrance"] = {"Lavaridge Town=1","Valley of Steel=1"}
 hoenn["Valley of Steel"] = {"Valley of Steel Entrance=1","Cave of Steel 2F=1","Cave of Steel 1F=1","Valley of Steel Western Peak=1"}
@@ -107,7 +106,7 @@ hoenn["Victory Road Hoenn B2F"] = {"Victory Road Hoenn B1F=1"}
 
 -- SKY PILLAR
 
-hoenn["Route 131"] = ["Route 130=1","Pacifidlog Town=1","Sky Pillar Entrance=1"]
+hoenn["Route 131"] = {"Route 130=1","Pacifidlog Town=1","Sky Pillar Entrance=1"}
 hoenn["Sky Pillar Entrance"] = {"Route 131=1","Sky Pillar Entrance Cave 1F=1","Sky Pillar 1F=1"}
 hoenn["Sky Pillar Entrance Cave 1F"] = {"Sky Pillar Entrance=1",}
 hoenn["Sky Pillar 1F"] = {"Sky Pillar Entrance=1","Sky Pillar 2F=1"}
